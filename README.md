@@ -5,7 +5,7 @@ Built using:
 - Truffle
 - Ganache
 
-# 🗃️ Details 
+# 🗃️ Project Details 
 All details have been documented in project_documentation.pdf, along with:
 - Project Scope
 - Use Case Diagram
