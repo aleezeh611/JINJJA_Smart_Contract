@@ -1,2 +1,14 @@
-# JINJJA_Smart_Contract
-Blockchain based counterfeit item checking system for retail item authenticity. 
+# 💻 JINJJA
+Ethereum Blockchain based counterfeit item checking system for retail item authenticity. 
+Built using:
+- Solidity
+- Truffle
+- Ganache
+
+# 🗃️ Details 
+All details have been documented in project_documentation.pdf, along with:
+- Project Scope
+- Use Case Diagram
+- Work Flow
+- Functionality Demonstration
+- UI Design
